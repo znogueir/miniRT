@@ -3,7 +3,7 @@
 <br>
 
 Goal(s):
-- create a simple raytracer in C capable of rendering simple geometric objects, with the help of a basic graphics library.
+- create a modest raytracer in C capable of rendering simple geometric objects, with the help of a basic graphics library.
 <br>
 
 Features :
@@ -75,3 +75,11 @@ white plane and spheres, 3 spots of each color channel.
 <br>
 a couple of more complicated scenes.
 <br>
+
+## Quickstart
+
+To get started with 42-miniRT:
+
+1. Clone the repository.
+2. Build the project using your preferred build system.
+3. Run the executable with desired arguments.
