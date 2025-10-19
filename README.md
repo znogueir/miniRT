@@ -76,10 +76,28 @@ white plane and spheres, 3 spots of each color channel.
 a couple of more complicated scenes.
 <br>
 
-## Quickstart
+-e ## Quickstart
 
-To get started with 42-miniRT:
+To get started with 42-miniRT, follow these steps:
 
-1. Clone the repository.
-2. Build the project using your preferred build system.
-3. Run the executable with desired arguments.
+1. Clone the repository:
+
+   ```sh
+   git clone <repository-url>
+   cd 42-miniRT
+   ```
+
+2. Build the project using Make:
+
+   ```sh
+   make
+   ```
+
+3. Run the executable with your desired scene file (replace `{filename}.rt` with an actual scene file):
+
+   ```sh
+   ./miniRT {filename}.rt
+   ```
+
+Note: Make sure you have the required dependencies installed (e.g., MinilibX, libft).
+
