@@ -1,6 +1,4 @@
-# 42-miniRT
-#### A 42 School project
-<br>
+# miniRT
 
 Goal(s):
 - create a modest raytracer in C capable of rendering simple geometric objects, with the help of a basic graphics library.
